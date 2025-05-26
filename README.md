@@ -1,2 +1,3 @@
-# michal
-michal
+# micha
+
+https://chatgpt.com/
