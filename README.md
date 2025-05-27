@@ -4,78 +4,105 @@ https://chatgpt.com/
 
 
 
-ABU   
-Ich kann die Begriffe Wohlstand und Wohlfahrt korrekt voneinander abgrenzen.
-•	Wohlfahrt: Umfasst die Lebensqualität jeder einzelnen Person, also auch immaterielle Werte wie Gesundheit, Bildung und Umwelt.
-•	Wohlstand: Beschreibt den materiellen Lebensstandard, z. B. Einkommen oder Besitz von Gütern.
+# ABU – Wirtschaftliche Grundlagen
 
-Ich kann fünf Kriterien aufzählen, die zur Messung der Wohlfahrt verwendet werden.
-•	Bruttoinlandprodukt (BIP), Schadstoffe in der Atemluft, Kindersterblichkeit, Versorgung mit Ärzten, Lebenserwartung.
+## Wohlstand und Wohlfahrt
+- **Wohlfahrt**: Lebensqualität einer Person, umfasst auch immaterielle Werte (Gesundheit, Bildung, Umwelt).
+- **Wohlstand**: Materieller Lebensstandard (z. B. Einkommen, Güterbesitz).
 
-Ich kann den Begriff «Bruttoinlandprodukt» korrekt erläutern.
-•	Das BIP misst den Marktwert aller im Inland hergestellten Güter und erbrachten Dienstleistungen innerhalb eines Jahres. Nicht enthalten sind z. B. Hausarbeit, ehrenamtliche Tätigkeiten, Schwarzarbeit und illegale Tätigkeiten.
+## Kriterien zur Messung der Wohlfahrt
+1. Bruttoinlandprodukt (BIP)
+2. Schadstoffe in der Atemluft
+3. Kindersterblichkeit
+4. Versorgung mit Ärzten
+5. Lebenserwartung
 
-Ich kann das Bruttoinlandprodukt korrekt berechnen.
-•	BIP = Bruttoproduktionswert – Vorleistungen + Gütersteuern – Gütersubventionen.
+## Bruttoinlandprodukt (BIP)
+- Misst den Marktwert aller im Inland hergestellten Güter und Dienstleistungen pro Jahr.
+- **Nicht enthalten**: Hausarbeit, Ehrenamt, Schwarzarbeit, illegale Tätigkeiten.
 
-Ich kann das nominale BIP vom realen BIP unterscheiden.
-•	Nominales BIP: BIP zu laufenden Preisen (ohne Berücksichtigung der Teuerung).
-•	Reales BIP: BIP unter Berücksichtigung der Inflation, zeigt die tatsächliche Mengenveränderung.
+**Formel:**
+## BIP = Bruttoproduktionswert – Vorleistungen + Gütersteuern – Gütersubventionen
 
-Ich kann Angaben zur Grösse des BIP in der Schweiz machen und es im europäischen Vergleich einordnen.
-•	Das BIP pro Kopf betrug in der Schweiz im Jahr 2020 rund CHF 80’000. Im 
-europäischen Vergleich gehört die Schweiz damit zu den Spitzenreitern.
+### Nominales vs. Reales BIP
+- **Nominales BIP**: Zu aktuellen Preisen, ohne Inflation.
+- **Reales BIP**: Preisbereinigt, zeigt echte Mengenveränderungen.
 
-Ich kann den Begriff der Lorenzkurve korrekt erläutern und die Lorenzkurve von verschiedenen Ländern beschreiben und interpretieren.
-•	Die Lorenzkurve zeigt die Einkommens- oder Vermögensverteilung in einem Land. Je stärker die Kurve von der Diagonalen abweicht, desto ungleicher ist die Verteilung.
-  
-Ich kann den Begriff «Konjunktur» erklären.
-•	Die Konjunktur beschreibt die wirtschaftliche Gesamtlage und ihre Schwankungen, gemessen am BIP. Diese Schwankungen nennt man Konjunkturzyklen.
+### BIP Schweiz im Vergleich
+- **BIP pro Kopf (2020)**: ca. CHF 80’000
+- **Europäischer Vergleich**: Schweiz gehört zu den Spitzenreitern.
 
- Ich kann die vier Phasen eines Konjunkturzyklus korrekt benennen und diese in der Grafik einzeichnen.
-•	Aufschwung: Nachfrage steigt, Produktion nimmt zu, Preise und Löhne beginnen zu steigen.
-•	Hochkonjunktur (Boom): Wirtschaft ist auf Hochtouren, hohe Auslastung, hohe Preise, steigende Löhne.
-•	Abschwung (Rezession beginnt): Nachfrage sinkt, Produktion geht zurück, Preise stagnieren oder sinken, Arbeitslosigkeit nimmt zu.
-•	Rezession / Depression: Nachfrage ist tief, Produktion und Beschäftigung sind niedrig, Preise und Löhne sinken weiter.
-  
-  Ich kann erklären, was in den einzelnen Konjunkturphasen geschieht (bezüglich Konsums, Stimmung, Beschäftigung, Zinsen, Sparverhalten, Schulden, Löhne und Gewinne).
-•	Im Aufschwung steigt der Konsum, die Stimmung ist optimistisch, Beschäftigung nimmt zu, Zinsen steigen leicht, weniger wird gespart.
-•	Im Boom ist der Konsum hoch, gute Stimmung, hohe Beschäftigung, hohe Zinsen, wenig Sparen, hohe Gewinne.
-•	Im Abschwung sinkt der Konsum, Unsicherheit steigt, Arbeitslosigkeit nimmt zu, Zinsen sinken, Sparverhalten steigt.
-•	In der Rezession ist die Stimmung schlecht, Konsum gering, Arbeitslosigkeit hoch, Zinsen niedrig, hohe Schulden möglich.
- 
- Ich kann erklären, anhand welcher Grösse die Konjunkturzyklen in der Schweiz gemessen werden.
-•	Die Konjunkturzyklen werden hauptsächlich anhand der realen Veränderung des Bruttoinlandprodukts (BIP) gemessen.
+## Lorenzkurve
+- Zeigt Einkommens-/Vermögensverteilung.
+- Je stärker die Abweichung von der Diagonalen, desto ungleicher die Verteilung.
 
-Ich kann die Fiskalpolitik der öffentlichen Hand sowie verschiedene antizyklische Massnahmen korrekt erläutern.
-•	Die Fiskalpolitik umfasst alle staatlichen Einnahmen und Ausgaben. In einer Rezession erhöht der Staat z. B. die Ausgaben oder senkt die Steuern, um die Nachfrage zu fördern (antizyklisch). In einem Boom spart der Staat oder erhöht Steuern, um eine Überhitzung zu vermeiden.
+## Konjunktur
+- Wirtschaftliche Gesamtlage, gemessen am BIP.
+- **Konjunkturzyklen**: Wirtschaftliche Schwankungen in Phasen.
 
-Ich kann erläutern, was der Landesindex der Konsumentenpreise (LIK) misst.
-•	Der LIK misst die Preisentwicklung der für private Haushalte wichtigsten Waren und Dienstleistungen – also die Teuerung bzw. Inflation.
+### 4 Phasen des Konjunkturzyklus
+1. **Aufschwung**: Nachfrage & Produktion steigen, Preise & Löhne steigen.
+2. **Boom**: Hohe Auslastung, hohe Preise, hohe Löhne.
+3. **Abschwung**: Nachfrage sinkt, Produktion nimmt ab, Arbeitslosigkeit steigt.
+4. **Rezession/Depression**: Tiefe Nachfrage, tiefe Produktion, hohe Arbeitslosigkeit.
 
-Ich kann erklären, wie sich der Schweizer Warenkorb zusammensetzt.
-•	Der Warenkorb besteht aus rund 1'000 Gütern und Dienstleistungen in 12 Hauptgruppen (z. B. Wohnen, Gesundheit, Verkehr), die den durchschnittlichen Konsum der Haushalte abbilden.
+### Auswirkungen je Phase
 
-Ich kann die verschiedenen Ursachen der Inflation beschreiben.
-•	Mögliche Ursachen:
-o	Nachfrageinflation: Zu hohe Nachfrage bei knappem Angebot.
-o	Kosteninflation: Höhere Produktionskosten (z. B. Rohstoffe, Löhne) werden auf Preise überwälzt.
-o	Importierte Inflation: Preissteigerungen im Ausland (z. B. Ölpreise).
-o	Geldmengeninflation: Zentralbank gibt zu viel Geld in Umlauf.
+| Phase       | Konsum      | Stimmung    | Beschäftigung | Zinsen | Sparen | Schulden | Löhne & Gewinne |
+|-------------|-------------|-------------|---------------|--------|--------|----------|------------------|
+| Aufschwung  | steigt      | optimistisch| steigt        | steigen| weniger| sinken   | steigen          |
+| Boom        | hoch        | sehr gut    | hoch          | hoch   | wenig  | tief     | hoch             |
+| Abschwung   | sinkt       | unsicher    | sinkt         | sinken | steigt | steigen  | sinken           |
+| Rezession   | tief        | schlecht    | tief          | niedrig| hoch   | hoch     | tief             |
 
-Ich kann verschiedene Folgen der Inflation beschreiben.
-•	Geld verliert an Wert, Kaufkraft sinkt, Ersparnisse verlieren real an Wert. Unternehmen haben Planungsunsicherheit, Sozialleistungen können zu wenig steigen. Im Extremfall Flucht in Sachwerte.
+### Messung der Konjunktur
+- Anhand der realen Veränderung des **BIP**.
 
-Ich kann die Bedeutung einer Hyperinflation erklären.
-•	Hyperinflation ist eine extreme Form der Inflation, bei der die Preise in sehr kurzer Zeit massiv steigen. Geld verliert fast vollständig seinen Wert, das Vertrauen in die Währung bricht zusammen.
+## Fiskalpolitik & antizyklische Massnahmen
+- **Fiskalpolitik**: Staatliche Einnahmen & Ausgaben.
+- **Antizyklisch**:
+  - **Rezession**: Staat erhöht Ausgaben / senkt Steuern.
+  - **Boom**: Staat spart / erhöht Steuern.
 
-Ich kann die Aufgaben der Schweizerischen Nationalbank (SNB) beschreiben.
-•	Die SNB sorgt für Preisstabilität, gibt die Schweizer Währung heraus, steuert die Geldmenge und unterstützt die Stabilität des Finanzsystems.
+## Landesindex der Konsumentenpreise (LIK)
+- Misst Preisentwicklung der wichtigsten Haushaltsausgaben = **Teuerung/Inflation**.
 
-Ich kann erklären, wie die SNB für Preisstabilität sorgt.
-•	Durch Steuerung des Leitzinses beeinflusst sie die Kreditvergabe und damit die Geldmenge. Sie kann zusätzlich Devisenkäufe/-verkäufe und andere geldpolitische Instrumente einsetzen.
+### Schweizer Warenkorb
+- Rund **1'000 Güter & Dienstleistungen**.
+- Aufgeteilt in **12 Hauptgruppen** (z. B. Wohnen, Gesundheit, Verkehr).
 
-Ich kann Schritt für Schritt beschreiben, wie sich eine Erhöhung oder Senkung des Leitzinses auf die Märkte auswirkt (straffende resp. erweiternde Geldpolitik).
-•	Erhöhung des Leitzinses (straffend): Kredite werden teurer → weniger Investitionen/Konsum → Geldmenge sinkt → Inflation wird gebremst.
-•	Senkung des Leitzinses (erweiternd): Kredite werden günstiger → mehr Investitionen/Konsum → Geldmenge steigt → Wirtschaft wird angekurbelt.
+## Ursachen der Inflation
+- **Nachfrageinflation**: Hohe Nachfrage bei knappem Angebot.
+- **Kosteninflation**: Höhere Produktionskosten.
+- **Importierte Inflation**: Preissteigerungen im Ausland.
+- **Geldmengeninflation**: Zu viel Geld im Umlauf.
 
+## Folgen der Inflation
+- Kaufkraft sinkt, Geld verliert Wert.
+- Ersparnisse entwerten sich real.
+- Planungsunsicherheit für Unternehmen.
+- Gefahr von Flucht in Sachwerte.
+
+## Hyperinflation
+- Extreme Preissteigerung in sehr kurzer Zeit.
+- Geld verliert fast komplett seinen Wert.
+- Vertrauen in Währung bricht zusammen.
+
+## Aufgaben der Schweizerischen Nationalbank (SNB)
+- Preisstabilität sichern
+- Schweizer Franken herausgeben
+- Geldmenge steuern
+- Finanzsystem stabilisieren
+
+### Preisstabilität durch die SNB
+- **Leitzinssteuerung**:
+  - Einfluss auf Kreditvergabe → Geldmenge.
+  - Weitere Instrumente: Devisenkäufe, Offenmarktpolitik.
+
+### Wirkung des Leitzinses
+
+**Erhöhung (straffende Geldpolitik):**
+- Kredite teurer → weniger Konsum & Investitionen → Inflation sinkt.
+
+**Senkung (erweiternde Geldpolitik):**
+- Kredite günstiger → mehr Konsum & Investitionen → Wirtschaft wird angekurbelt.
