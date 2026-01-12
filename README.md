@@ -1,8 +1,8 @@
 c# micha
 
 https://chatgpt.com/
-https://claudi.ai
 
+https://claude.ai/new
 
 
 
