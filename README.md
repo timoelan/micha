@@ -141,7 +141,7 @@ https://claude.ai/new
 ### 2. Säule (BVG)
 - Beginn Risikoversicherung: ab 17  
 - Beginn Altersvorsorge: ab 25  
-- Mindestlohn: CHF 22'050  
+- Mindestlohn: CHF 22'680  
 - Ende: Ordentliches Rentenalter oder Frühpensionierung  
 
 ---
